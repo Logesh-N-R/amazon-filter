@@ -1,6 +1,6 @@
  data = [
 	{
-		"name": "AmazonBasics 80cm (32 inch) Fire HD LED Smart TV AB32E10SS (Black) (2019 Model)",
+		"name": "AmazonLoki 80cm (32 inch) Fire HD LED Smart TV AB32E10SS (Black) (2019 Model)",
 		"rating": "3.2 out of 5 stars 780",
 		"price": "₹14,999",
 		"save": "Save extra with No Cost EMI",
